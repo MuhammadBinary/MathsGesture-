@@ -1,1 +1,1 @@
-#AI Maths Gesture
+AI MATHS GESTURE
