@@ -8,7 +8,7 @@ from PIL import Image
 import streamlit as st
 
 st.set_page_config(layout='wide')
-st.image("ADVANCE_CV2/AI_MathsGesture_program/header.png")
+st.image("Header_1.jpg")
 
 col1, col2 = st.columns([3, 2])
 with col1:
